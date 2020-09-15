@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{Shaik:2019dym}
+Feroz~H. Shaik, Jacob Lange, Scott~E. Field, Richard O'Shaughnessy, Vijay
+  Varma, Lawrence~E. Kidder, Harald~P. Pfeiffer, and Daniel Wysocki.
+\newblock {Impact of subdominant modes on the interpretation of
+  gravitational-wave signals from heavy binary black hole systems}.
+\newblock 11 2019.
+
+\bibitem{Veitch:2014wba}
+J.~Veitch et~al.
+\newblock {Parameter estimation for compact binaries with ground-based
+  gravitational-wave observations using the LALInference software library}.
+\newblock {\em Phys. Rev. D}, 91(4):042003, 2015.
+
+\bibitem{Lange2018RapidAA}
+J.~Lange, R.~O'Shaughnessy, and Monica Rizzo.
+\newblock Rapid and accurate parameter inference for coalescing, precessing
+  compact binaries.
+\newblock {\em arXiv: General Relativity and Quantum Cosmology}, 2018.
+
+\bibitem{Ashton:2019leq}
+Gregory Ashton and Sebastian Khan.
+\newblock {Multiwaveform inference of gravitational waves}.
+\newblock {\em Phys. Rev. D}, 101(6):064037, 2020.
+
+\end{thebibliography}

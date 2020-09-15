@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: poster.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Warning--empty journal in Shaik:2019dym
+You've used 4 entries,
+            1791 wiz_defined-function locations,
+            474 strings with 4381 characters,
+and the built_in function-call counts, 841 in all, are:
+= -- 61
+> -- 53
+< -- 0
++ -- 19
+- -- 15
+* -- 63
+:= -- 153
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 34
+empty$ -- 75
+format.name$ -- 15
+if$ -- 174
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 4
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 36
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 6
+width$ -- 5
+write$ -- 43
+(There was 1 warning)
